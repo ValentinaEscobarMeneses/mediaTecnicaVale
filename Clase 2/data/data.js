@@ -1,7 +1,17 @@
 export const pinturas = [
     {
         id: 1,
-        name :"",
-        Image:"./imagenes/el grito.jpeg"
+        name :"El grito",
+        image:"./imagenes/el grito.jpeg"
+    },
+    {
+        id: 1,
+        name :"El grito",
+        image:"./imagenes/el grito.jpeg"
+    },
+    {
+        id: 1,
+        name :"El grito",
+        image:"./imagenes/el grito.jpeg"
     }
 ]
